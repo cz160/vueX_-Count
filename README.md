@@ -1,2 +1,2 @@
 # vueX_-instance
-VueX的深层次理解与实例
+VueX基本流程熟练-计算器实例
